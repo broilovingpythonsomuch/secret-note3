@@ -21,7 +21,7 @@ const initialLetters: Letter[] = [
     id: 1,
     title: "The Beginning",
     content:
-      "Hey there,\n\nI'm really glad you decided to open this. I wanted a speciaql way to share some thoughts with you. This is just the start of something I hope you'll enjoy reading.\n\nKeep going to the next one.",
+      "Hey there,\n\nI'm really glad you decided to open this. I wanted a special way to share some thoughts with you. This is just the start of something I hope you'll enjoy reading.\n\nKeep going to the next one.",
     gameType: "clicker",
     locked: true,
   },
@@ -37,7 +37,7 @@ const initialLetters: Letter[] = [
     id: 3,
     title: "Hidden Thoughts",
     content:
-      "Sometimes it's hard to say things out loud. Writing them down feels a bit safer.\n\nI just want you to know that your presence brightens up the room in a way that no one else can.",
+      "Hi,\n \nOkay so… this might sound random, but I think you’re kinda stealing my focus lately. Like hello?? Why am I smiling at my phone like this?? 😂 Ngl, I really enjoy talking to you. You’re funny, smart, and lowkey adorable. It’s dangerous combo tbh. I don’t know where this is gonna go, but I’m willing to find out… if you are too 😉\n \n– Your favorite notification (hopefully :D)",
     gameType: "reflex",
     locked: true,
   },
@@ -45,7 +45,7 @@ const initialLetters: Letter[] = [
     id: 4,
     title: "Future Hopes",
     content:
-      "I have a strong feeling that great things are coming your way. You have the talent and the heart to achieve whatever you set your mind to.\n\nDon't ever give up on your dreams.",
+      "Hiii,\n \nSometimes I wonder if you even realize how special you are. The way you laugh? It stays in my head. The way you talk about your dreams? It makes me wanna support you in everything. Tbh, you inspire me more than you know. You make me wanna be better, do better, try harder. If one day you ever need someone who’s gonna stay, cheer for you, and choose you\n \n— I’m right here. Always rooting for you",
     gameType: "sort",
     locked: true,
   },
@@ -53,7 +53,7 @@ const initialLetters: Letter[] = [
     id: 5,
     title: "Final Note",
     content:
-      "You made it to the end! Thank you for playing along and reading these letters.\n\nI hope this little game brought a smile to your face today.\n\n- Yours Truly.",
+      "You made it to the end!\n \nI don’t wanna make this long. I just wanna say… I like you. A lot. You make things feel lighter. You make me feel calm and excited at the same time (which is weird but nice lol). If you ever feel the same, maybe we could see where this goes? No pressure. Just honesty.\n \n– Yours (maybe? souds weird bruh) ",
     gameType: "timing",
     locked: true,
   },
