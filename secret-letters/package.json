@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "lucide-react": "^0.575.0",
-    "next": "14.0.4",
+    "next": "^14.0.4",
     "okuna": "^0.3.0",
     "openbook": "^0.0.0",
     "react": "^18",
