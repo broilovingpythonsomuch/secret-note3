@@ -53,7 +53,7 @@ const initialLetters: Letter[] = [
     id: 5,
     title: "Final Note",
     content:
-      "You made it to the end!\n \nI don’t wanna make this long. I just wanna say… I like you. A lot. You make things feel lighter. You make me feel calm and excited at the same time (which is weird but nice lol). If you ever feel the same, maybe we could see where this goes? No pressure. Just honesty.\n \n– Yours (maybe? souds weird bruh) ",
+      "You made it to the end!\n \nI don’t wanna make this long. I just wanna say… I like you. A lot. You make things feel lighter. You make me feel calm and excited at the same time (which is weird but nice lol). If you ever feel the same, maybe we could see where this goes? No pressure. Just honesty.\n \n– Yours (maybe? sounds weird bruh) ",
     gameType: "timing",
     locked: true,
   },
